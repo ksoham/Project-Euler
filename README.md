@@ -8,5 +8,5 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 Who are the problems aimed at?
 The intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.
 
-Currently we have 1334136 registered members who have solved at least one problem, representing 220 locations throughout the world, and collectively using 114 different programming languages to solve the problems.
+Currently, we have 1334136 registered members who have solved at least one problem, representing 220 locations throughout the world, and collectively using 114 different programming languages to solve the problems.
 
